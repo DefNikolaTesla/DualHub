@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DualSpace Engine</string>
+    <string name="keepalive_channel_name">DualSpace Keep-Alive</string>
+    <string name="keepalive_channel_desc">Keeps virtual app instances running</string>
+    <string name="keepalive_notification_title">DualSpace active</string>
+    <string name="keepalive_notification_text">Virtual environment is running</string>
+</resources>
