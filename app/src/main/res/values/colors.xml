@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0E1016</color>
+    <color name="surface">#171A22</color>
+    <color name="surfaceElevated">#1E222C</color>
+    <color name="onBackground">#EDEFF5</color>
+    <color name="onSurfaceVariant">#9AA1B2</color>
+    <color name="accent">#7C8CF8</color>
+    <color name="accentSoft">#2A2E58</color>
+    <color name="danger">#F2665B</color>
+    <color name="dangerSoft">#3A2226</color>
+    <color name="divider">#262B36</color>
+</resources>
